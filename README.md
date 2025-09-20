@@ -1,25 +1,25 @@
 # 🧬 Julia Bioinformatics Portfolio
 
-<img src="[https://upload.wikimedia.org/wikipedia/commons/f/fb/DNA_double_helix_horizontal.png](https://www.thoughtco.com/thmb/8Xg3DqaMKQZrY11S8Rl62m6wEFA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3-D_DNA-56a09ae45f9b58eba4b20266.jpg)" width="600"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png" width="800"/>
 
 ---
 
-## Author  
+## 👨‍🔬 Author  
 **Dr. Mostafa Samy**  
 📧 mostafa_m_samy@stud.cu.edu.eg  
 
 ---
 
 ## 🎯 Purpose  
-This notebook showcases applications of **Julia** in **Bioinformatics & Omics Analysis**, including:
+This notebook demonstrates applications of **Julia** across the spectrum of **Bioinformatics & Computational Biology**:
 
-- Transcriptomics (Expression heatmaps, PCA, Volcano plots)
-- Sequence Analysis (FASTA parsing, DNA→Protein, GC content)
-- Systems Biology (Gene Regulatory Networks, ODE dynamics)
-- Structural Bioinformatics (Contact maps, Protein domain schematics)
-- Genomics (SNPs, Phylogenetics, Genome browser tracks)
-- Clinical Linkage (Survival analysis)
-- Reporting (Export to figures)
+- Transcriptomics (PCA, heatmaps, clustering, volcano plots)  
+- Sequence Analysis (FASTA parsing, GC content, DNA→Protein, mock MSA)  
+- Systems Biology (Gene Regulatory Networks, ODE dynamics, PPI networks)  
+- Structural Bioinformatics (Protein domains, contact maps)  
+- Genomics (SNP frequencies, phylogenetics, genome browser tracks)  
+- Clinical Linkage (Survival analysis)  
+- Reporting & Export (Figures for reproducibility)  
 
 ---
 
@@ -34,4 +34,7 @@ This notebook showcases applications of **Julia** in **Bioinformatics & Omics An
 
 ---
 
-🧬 *This portfolio demonstrates how Julia can be applied across the full spectrum of bioinformatics: from sequence data → expression → networks → structure → genomics → clinical outcomes.*
+<p style="font-size:16px; color:#2E86C1;">
+🧬 This portfolio shows how Julia can power the full research workflow:  
+from raw **DNA sequences → expression data → systems & networks → structure → genomics → clinical outcomes**.
+</p>
