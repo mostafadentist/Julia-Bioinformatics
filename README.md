@@ -1,6 +1,6 @@
 ##############################
 # 📓 Julia Bioinformatics Portfolio
-# Author: YOUR NAME
+# Author: Dr Mostafa Samy
 # Purpose: Showcase Julia for Bioinformatics/Omics Analysis
 # Environment: Google Colab or local Julia (v1.9+)
 ##############################
