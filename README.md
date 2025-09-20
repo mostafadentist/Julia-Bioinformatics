@@ -1,6 +1,11 @@
 # 🧬 Julia Bioinformatics Portfolio
 
-<img src="[https://upload.wikimedia.org/wikipedia/commons/8/8d/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png](https://en.wikipedia.org/wiki/DNA#/media/File:Phosphate_backbone.jpg)" width="800"/>
+<p align="center">
+  <a href="https://commons.wikimedia.org/wiki/File:Phosphate_backbone.jpg#/media/File:Phosphate_backbone.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Phosphate_backbone.jpg" alt="Phosphate backbone of DNA" width="700">
+  </a><br>
+  <sub>Image: By <a href="https://en.wikipedia.org/wiki/National_Human_Genome_Research_Institute">NHGRI</a> – Public Domain via Wikimedia Commons</sub>
+</p>
 
 ---
 
@@ -13,13 +18,13 @@
 ## 🎯 Purpose  
 This notebook demonstrates applications of **Julia** across the spectrum of **Bioinformatics & Computational Biology**:
 
-- Transcriptomics (PCA, heatmaps, clustering, volcano plots)  
-- Sequence Analysis (FASTA parsing, GC content, DNA→Protein, mock MSA)  
-- Systems Biology (Gene Regulatory Networks, ODE dynamics, PPI networks)  
-- Structural Bioinformatics (Protein domains, contact maps)  
+- Transcriptomics (heatmaps, PCA, volcano plots)  
+- Sequence Analysis (FASTA parsing, GC content, translation, MSA)  
+- Systems Biology (GRNs, ODE simulation, PPI networks)  
+- Structural Bioinformatics (protein contacts, domain maps)  
 - Genomics (SNP frequencies, phylogenetics, genome browser tracks)  
-- Clinical Linkage (Survival analysis)  
-- Reporting & Export (Figures for reproducibility)  
+- Clinical Linkage (survival analysis)  
+- Reporting & Export  
 
 ---
 
@@ -35,6 +40,6 @@ This notebook demonstrates applications of **Julia** across the spectrum of **Bi
 ---
 
 <p style="font-size:16px; color:#2E86C1;">
-🧬 This portfolio shows how Julia can power the full research workflow:  
-from raw **DNA sequences → expression data → systems & networks → structure → genomics → clinical outcomes**.
+🧬 From the **DNA phosphate backbone** → to **genes, proteins, pathways, and clinical outcomes** —  
+this portfolio shows Julia’s role across the entire bioinformatics pipeline.
 </p>
