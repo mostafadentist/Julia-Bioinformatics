@@ -1,6 +1,6 @@
 # 🧬 Julia Bioinformatics Portfolio
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/DNA_double_helix_horizontal.png" width="600"/>
+<img src="[https://upload.wikimedia.org/wikipedia/commons/f/fb/DNA_double_helix_horizontal.png](https://www.thoughtco.com/thmb/8Xg3DqaMKQZrY11S8Rl62m6wEFA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3-D_DNA-56a09ae45f9b58eba4b20266.jpg)" width="600"/>
 
 ---
 
