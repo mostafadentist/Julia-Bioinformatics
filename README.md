@@ -1,6 +1,6 @@
 # 🧬 Julia Bioinformatics Portfolio
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png" width="800"/>
+<img src="[https://upload.wikimedia.org/wikipedia/commons/8/8d/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png](https://en.wikipedia.org/wiki/DNA#/media/File:Phosphate_backbone.jpg)" width="800"/>
 
 ---
 
